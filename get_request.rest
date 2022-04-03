@@ -1,0 +1,8 @@
+POST http://localhost:3000/person
+Content-Type: application/json
+
+{
+    "name":"Jeppe Peloniemi",
+    "age":23,
+    "email":"jeppe@jelonen.com"
+}
